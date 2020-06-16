@@ -16,7 +16,7 @@ work on the current change (see also: git help everyday)
    restore   Restore working tree files
    rm        Remove files from the working tree and from the index
 adasdasda
-examine the history and state (see also: git help revisions)
+examine the history and state (see also: git help SasSs)
    bisect    Use binary search to find the commit that introduced a bug
    diff      Show changes between commits, commit and working tree, etc
    grep      Print lines matching a pattern
